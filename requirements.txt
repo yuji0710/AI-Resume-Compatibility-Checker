@@ -1,0 +1,9 @@
+streamlit
+scikit-learn
+nltk
+numpy
+pandas
+PyPDF2
+pytesseract
+Pillow
+

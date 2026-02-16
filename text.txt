@@ -1,0 +1,75 @@
+Senior Data Analyst with 8+ years of experience in business analytics and reporting.
+
+Skills:
+SQL, Advanced Excel, Data Analysis, Reporting,
+Power BI, Tableau, Dashboard Development,
+Business Intelligence, Stakeholder Management
+
+Experience:
+- Designed and maintained BI dashboards for leadership
+- Performed KPI tracking and trend analysis
+- Worked closely with business teams to deliver insights
+- Optimized SQL queries for reporting systems
+
+Education:
+Bachelor of Technology in Information Technology
+
+<-------------------------------------------------------------------------->
+
+Senior Data Scientist with 7+ years of professional experience working in machine learning, statistical modeling, and applied data science.
+
+Core Skills:
+Python, SQL, Machine Learning, Deep Learning,
+Scikit-learn, TensorFlow, PyTorch,
+Statistics, Probability, Feature Engineering,
+Model Evaluation, Cross Validation, NLP
+
+Professional Experience:
+- Worked as a Data Scientist for 7+ years in industry environments
+- Designed and trained supervised and unsupervised machine learning models
+- Performed feature engineering, data preprocessing, and model tuning
+- Evaluated models using accuracy, precision, recall, and cross-validation
+- Developed NLP models for text classification and information extraction
+- Collaborated with engineers to deploy ML solutions into production
+
+Education:
+Master of Science (M.Sc.) in Data Science
+Bachelor of Technology in Computer Science
+
+
+
+<------------------------------------------------------------------------------->
+
+
+Experienced Data Scientist with 6+ years of experience in machine learning and predictive modeling.
+
+Skills:
+Python, SQL, Machine Learning, Deep Learning,
+Scikit-learn, TensorFlow, PyTorch,
+Statistics, Feature Engineering, NLP
+
+Experience:
+- Built ML models for classification and regression
+- Deployed models using Flask APIs
+- Improved model accuracy by 20%
+- Worked on NLP and time series forecasting
+
+Education:
+Master’s in Data Science
+
+
+
+
+We are looking for a Data Scientist with strong experience in Python, Machine Learning, and Statistics.
+
+Responsibilities:
+- Build and deploy machine learning models
+- Perform data preprocessing, feature engineering, and model training
+- Work with supervised and unsupervised learning algorithms
+- Use libraries such as scikit-learn, TensorFlow, PyTorch
+- Perform statistical analysis and hypothesis testing
+- Communicate insights to stakeholders
+
+Required Skills:
+Python, Machine Learning, Deep Learning, Statistics,
+Data Modeling, TensorFlow, PyTorch, SQL
